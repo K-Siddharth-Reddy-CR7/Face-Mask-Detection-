@@ -52,8 +52,10 @@ results/ → outputs and visualizations
 ## ▶️ How to Run
 Clone repository:
 git clone https://github.com/K-Siddharth-Reddy-CR7/face-mask-detection-yolov8-xai.git
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run notebook in Google Colab or locally
 
 ---
