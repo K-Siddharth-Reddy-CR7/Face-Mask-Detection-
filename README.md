@@ -75,5 +75,7 @@ Syeda Sayeeda Farhath
 P. Naga Bhargav Reddy 
 
 ---
+Summary
 
+This project presents a YOLOv8-based Face Mask Detection system enhanced with Explainable AI (XAI) techniques. The system detects whether individuals are wearing face masks and uses SHAP, LIME, and Grad-CAM to explain the model’s predictions through feature importance, local explanations, and visual heatmaps. The project aims to improve detection accuracy, transparency, and trust in AI-based mask detection systems, with future scope for real-time CCTV monitoring and web-based deployment.
 ## 
