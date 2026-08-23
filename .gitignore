@@ -1,0 +1,20 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+ehthumbs.db
+Folder.jpg
+Desktop.ini
+$RECYCLE.BIN/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
